@@ -1,0 +1,5 @@
+node_modules/
+dist/
+public/assets/excalidraw/
+*.tsbuildinfo
+.DS_Store
